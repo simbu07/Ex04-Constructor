@@ -83,7 +83,7 @@ namespace program
 }
 ```
 ## Output:
-![output]()
+![output](https://user-images.githubusercontent.com/93427237/229769928-6ad489d2-e463-4573-aa80-2cb8dd7e43d7.png)
 
 ## Result:
 Thus the C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
