@@ -1,24 +1,25 @@
-# Ex04-Constructor
-## Aim:
+## Ex-4  Constructor
+### Date:18/4/2023
+### Aim:
  To write a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor.
  
-## Algorithm:
-## Step 1:
+### Algorithm:
+### Step 1:
 Create a class and a constructor.
 
-## Step 2:
+### Step 2:
 Get name, designation, experience, basic salary and insurance amount from the User.
 
-## Step 3:
+### Step 3:
 Call salary method in constructor to calculate salary.
 
-Step 4:
+### Step 4:
 Call display method to display the output.
 
-## Step 5:
+### Step 5:
 Stop the program.
 
-## Program:
+### Program:
 ```
 Developed By : Silambarasann K
 Reg No : 212221230101
@@ -82,8 +83,8 @@ namespace program
    }
 }
 ```
-## Output:
+### Output:
 ![output](https://user-images.githubusercontent.com/93427237/229769928-6ad489d2-e463-4573-aa80-2cb8dd7e43d7.png)
 ![output](https://user-images.githubusercontent.com/93427237/229770016-2fe2b394-5603-474f-b6e0-8486e087c594.png)
-## Result:
+### Result:
 Thus the C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
